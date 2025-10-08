@@ -247,7 +247,7 @@ We welcome contributions to improve cultural accuracy and expand regional suppor
 
 This project was collaboratively developed by:
 
-* Muhammad Uzair Shahid  ([https://github.com/Uzi78](https://github.com/Uzi78)
+* Muhammad Uzair Shahid  ([https://github.com/Uzi78](https://github.com/Uzi78))
 * Talha Kausar   ([https://github.com/raotalha71](https://github.com/raotalha71))
 * Muhammad Zabil Mehboob  ([https://github.com/MZabil](https://github.com/MZabil))
 
