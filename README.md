@@ -2,8 +2,6 @@
 
 **An AI-powered travel shopping assistant with cultural sensitivity and climate-aware recommendations**
 
-*Built for the GKE Turns 10 Hackathon - Connecting cultures through intelligent, sensitive technology*
-
 ---
 
 ## Problem Statement
@@ -245,13 +243,13 @@ Response:
 
 We welcome contributions to improve cultural accuracy and expand regional support.
 
-## Team - GKE Turns 10 Hackathon
+## Team
 
-This project was collaboratively developed for the GKE Turns 10 Hackathon by:
+This project was collaboratively developed by:
 
-* Muhammad Uzair Shahid
-* Talha Kausar  ([https://github.com/raotalha71](https://github.com/raotalha71))
-* Muhammad Zabil Mehboob ([https://github.com/MZabil](https://github.com/MZabil))
+* Muhammad Uzair Shahid  ([https://github.com/Uzi78](https://github.com/Uzi78])
+* Talha Kausar  ([https://github.com/raotalha71](https://github.com/raotalha71])
+* Muhammad Zabil Mehboob  ([https://github.com/MZabil](https://github.com/MZabil])
 
 ## License
 
@@ -262,7 +260,6 @@ MIT License - Feel free to use and modify for your travel applications.
 * **Google Cloud Vertex AI** - For powerful Gemini AI integration
 * **Wikipedia Community** - For comprehensive cultural and climate data
 * **Cultural Consultants** - For sensitivity guidance and validation
-* **GKE Turns 10 Hackathon** - For the opportunity to showcase innovation
 
 ---
 
