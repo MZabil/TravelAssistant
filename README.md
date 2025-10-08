@@ -22,7 +22,8 @@ Our AI-powered chatbot revolutionizes travel shopping by providing **culturally-
 
 ## Architecture
 
-![ArchitectureDiagram](https://github.com/user-attachments/assets/af24a69d-3e27-43cb-9bfb-86a3c2daf136)
+<img width="1014" height="632" alt="image" src="https://github.com/user-attachments/assets/ad6dc9a0-da96-4c9e-822c-9d1a23993e3f" />
+
 
 
 ## Key Features
